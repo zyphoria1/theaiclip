@@ -38,7 +38,7 @@ const App = () => {
           <Route path="/item/:id/:slug?" element={<ItemDetails />} />
           <Route path="/category/:category" element={<CategoryView />} />
           <Route path="/search" element={<SearchResults />} />
-          <Route path="/kavi-control-99" element={<Admin />} />
+          <Route path="/vishwakarma-wpadmin-theaiclip" element={<Admin />} />
           <Route path="/about" element={<About />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
