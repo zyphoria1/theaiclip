@@ -107,7 +107,7 @@ const Header = () => {
             aria-label="Go to homepage"
             tabIndex={0}
           >
-            KaviArts
+            THEAICLIP
           </h1>
 
           <div className="hidden md:flex flex-1 max-w-md mx-8 relative">
@@ -157,14 +157,17 @@ const Header = () => {
               <span className="hidden md:inline ml-2">Wallpapers</span>
             </Button>
 
+
             <Button 
               variant="outline" 
-              onClick={() => navigate("/category/ringtone")}
-              aria-label="View Ringtones"
+              onClick={() => navigate("/category/Pc wallpaper")}
+              aria-label="View Pc Wallpapers"
             >
-              <Music className="w-4 h-4" />
-              <span className="hidden md:inline ml-2">Ringtones</span>
+              <Smartphone className="w-4 h-4" />
+              <span className="hidden md:inline ml-2"> Pc Wallpapers</span>
             </Button>
+
+
 
             <Button 
               variant="outline" 

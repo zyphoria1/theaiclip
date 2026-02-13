@@ -4,4 +4,4 @@ Allow: /
 Disallow: /admin
 Disallow: /search
 
-Sitemap: https://kaviarts.com/sitemap.xml
+Sitemap: https://theaiclip.com/sitemap.xml

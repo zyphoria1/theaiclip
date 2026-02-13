@@ -2,7 +2,6 @@ import { lazy, Suspense, useEffect, useState } from "react";
 import { supabase } from "@/lib/supabaseClient";
 
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
 import CategoryNav from "@/components/CategoryNav";
 import Footer from "@/components/Footer";
 import SEO from "@/components/SEO";
@@ -188,7 +187,7 @@ const Index = () => {
       <Header />
 
       <main id="main-content">
-        <Hero />
+        
         <CategoryNav />
 
         <ContentSection
