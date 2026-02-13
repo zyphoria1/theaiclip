@@ -7,8 +7,8 @@ const Terms = () => (
     {/* ✅ SEO METADATA (PROPS-ONLY, SSG SAFE) */}
     <SEO
       title="Terms & Conditions"
-      description="Terms of Service for Kavi Arts. Read our policies regarding content usage, downloads, and user responsibilities."
-      url="https://kaviarts.com/terms"
+      description="Terms of Service for theaiclip. Read our policies regarding content usage, downloads, and user responsibilities."
+      url="https://theaiclip.com/terms"
     />
 
     <Header />
@@ -18,7 +18,7 @@ const Terms = () => (
 
       <section className="space-y-6 text-muted-foreground">
         <p className="leading-relaxed text-lg">
-          Welcome to Kavi Arts. By accessing this website, you agree to be bound
+          Welcome to theaiclip. By accessing this website, you agree to be bound
           by the following terms and conditions. Please read them carefully.
         </p>
 
@@ -59,7 +59,7 @@ const Terms = () => (
           </h2>
           <ul className="list-disc list-inside space-y-2 ml-2">
             <li>
-              Kavi Arts is <strong>not responsible</strong> for any data loss,
+              theaiclip is <strong>not responsible</strong> for any data loss,
               device issues, or compatibility problems caused by downloading or
               using our content.
             </li>

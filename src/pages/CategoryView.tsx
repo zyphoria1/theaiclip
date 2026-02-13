@@ -100,7 +100,7 @@ const CategoryView = () => {
 
   // SEO Description logic
   const seoDescription = `Browse and download the best free ${category}s. High quality collection updated daily.`;
-  const seoTitle = `${title} | KaviArts Free Downloads`;
+  const seoTitle = `${title} | theaiclip Free Downloads`;
 
   return (
     <div className="min-h-screen bg-background">
@@ -109,7 +109,7 @@ const CategoryView = () => {
      <SEO
   title={seoTitle}
   description={seoDescription}
-  url={`https://kaviarts.com/category/${category}`}
+  url={`https://theaiclip.com/category/${category}`}
 />
 
 

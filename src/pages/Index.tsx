@@ -180,7 +180,7 @@ const Index = () => {
       <SEO
         title="Free 4K Wallpapers, Ringtones & Videos"
         description="Download high-quality 4K wallpapers, trending ringtones, and stock videos for free. No account required."
-        url="https://kaviarts.com/"
+        url="https://theaiclip.com/"
         image="https://res.cloudinary.com/dbrhsfdle/image/upload/v1768036035/bzptb3m7zdahlmtesvix.jpg"
       />
 

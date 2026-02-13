@@ -7,21 +7,21 @@ const About = () => (
     {/* ✅ SEO METADATA (PROPS-ONLY, SSG SAFE) */}
     <SEO
       title="About Us"
-      description="Learn about Kavi Arts, your source for high-quality, aesthetic wallpapers, ringtones, and creative media for device customization."
-      url="https://kaviarts.com/about"
+      description="Learn about theaiclip, your source for high-quality, aesthetic wallpapers, ringtones, and creative media for device customization."
+      url="https://theaiclip.com/about"
     />
 
     <Header />
 
     <main className="container mx-auto px-4 py-10 max-w-3xl">
       {/* H1 */}
-      <h1 className="text-3xl font-bold mb-6">About Kavi Arts</h1>
+      <h1 className="text-3xl font-bold mb-6">About theaiclip </h1>
 
       <section className="space-y-8 text-muted-foreground">
         {/* Intro */}
         <div className="space-y-3">
           <p className="leading-relaxed text-lg">
-            Welcome to <strong>Kavi Arts</strong>, a premier digital platform
+            Welcome to <strong>theaiclip</strong>, a premier digital platform
             dedicated to personal device customization. We specialize in
             offering high-quality <strong>wallpapers</strong>,{" "}
             <strong>ringtones</strong>, and creative media downloads that bring
@@ -69,14 +69,14 @@ const About = () => (
             Usage & Rights ⚖️
           </h2>
           <p className="leading-relaxed">
-            All content available on Kavi Arts is intended for{" "}
+            All content available on theaiclip is intended for{" "}
             <strong>personal use only</strong>. We respect intellectual property
             rights and are committed to maintaining a compliant platform. If you
             have valid concerns regarding specific content, we are ready to
             remove it upon request.
           </p>
           <p className="text-sm mt-2 italic">
-            By using Kavi Arts, you agree to browse and download content
+            By using theaiclip, you agree to browse and download content
             responsibly.
           </p>
         </div>

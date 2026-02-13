@@ -69,7 +69,7 @@ export default defineConfig(async ({ mode }) => {
       react(),
 
       Sitemap({
-        hostname: "https://kaviarts.com",
+        hostname: "https://theaiclip.com",
         dynamicRoutes: sitemapRoutes,
         readable: true,
         generateRobotsTxt: false,

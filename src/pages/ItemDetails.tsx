@@ -132,11 +132,11 @@ const ItemDetails = () => {
 
   if (!item) return <NotFound />;
 
-  const canonicalUrl = `https://kaviarts.com/item/${item.id}/${makeSlug(item.file_name)}`;
+  const canonicalUrl = `https://theaiclip.com/item/${item.id}/${makeSlug(item.file_name)}`;
 
   const seoDescription =
     item.description?.slice(0, 160) ||
-    `Download ${item.file_name} for free on KaviArts.`;
+    `Download ${item.file_name} for free on theaiclip.`;
 
   const resolutionInfo =
     item.width && item.height

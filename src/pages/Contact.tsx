@@ -7,8 +7,8 @@ const Contact = () => (
     {/* ✅ SEO METADATA (PROPS-ONLY, SSG SAFE) */}
     <SEO
       title="Contact Us"
-      description="Reach out to Kavi Arts for feedback, content inquiries, technical support, or copyright removal requests."
-      url="https://kaviarts.com/contact"
+      description="Reach out to theaiclip for feedback, content inquiries, technical support, or copyright removal requests."
+      url="https://theaiclip.com/contact"
     />
 
     <Header />
@@ -19,7 +19,7 @@ const Contact = () => (
 
       <section className="space-y-6 text-muted-foreground">
         <p className="leading-relaxed">
-          We appreciate your interest in Kavi Arts. Whether you have feedback,
+          We appreciate your interest in theaiclip. Whether you have feedback,
           a content request, or a critical inquiry, we're here to help.
           Please use the appropriate method below to ensure a prompt response.
         </p>
@@ -38,10 +38,10 @@ const Contact = () => (
           <p className="mt-2 font-bold text-lg text-primary">
             Email:{" "}
             <a
-              href="mailto:kavitunez@gmail.com"
+              href="mailto:codewithvikas0@gmail.com"
               className="underline hover:opacity-80"
             >
-              kavitunez@gmail.com
+              codewithvikas0@gmail.com
             </a>
           </p>
         </div>
@@ -77,7 +77,7 @@ const Contact = () => (
 
           <p className="mt-2 text-md">
             <a
-              href="https://www.instagram.com/kavitunez/"
+              href="https://www.instagram.com/theaiclip/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline mr-4"
@@ -86,7 +86,7 @@ const Contact = () => (
             </a>
 
             <a
-              href="https://youtube.com/@kavitunez"
+              href="https://youtube.com/@theaiclipofficial"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline"

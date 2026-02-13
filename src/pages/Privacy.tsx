@@ -6,8 +6,8 @@ const Privacy = () => (
   <>
     <SEO
       title="Privacy Policy"
-      description="Privacy Policy for Kavi Arts. Learn how we collect and protect your data."
-      url="https://kaviarts.com/privacy"
+      description="Privacy Policy for theaiclip. Learn how we collect and protect your data."
+      url="https://theaiclip.com/privacy"
     />
 
     <Header />
@@ -17,7 +17,7 @@ const Privacy = () => (
 
       <section className="space-y-6 text-muted-foreground">
         <p className="leading-relaxed">
-          Your privacy matters to us. Kavi Arts collects limited, non-personal
+          Your privacy matters to us. theaiclip collects limited, non-personal
           data to improve website performance, analyze downloads, and ensure
           site security.
         </p>

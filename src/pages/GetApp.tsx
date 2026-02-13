@@ -6,8 +6,8 @@ const GetApp = () => (
   <>
     <SEO
       title="Download App"
-      description="The Kavi Arts mobile app is coming soon. Get ready for exclusive 4K wallpapers, live loops, and custom ringtones."
-      url="https://kaviarts.com/app"
+      description="The theaiclip mobile app is coming soon. Get ready for exclusive 4K wallpapers, live loops, and custom ringtones."
+      url="https://theaiclip.com/app"
     />
 
     <Header />
@@ -15,7 +15,7 @@ const GetApp = () => (
     <main className="container mx-auto px-4 py-10 max-w-3xl">
       <div className="text-center mb-10">
         <h1 className="text-4xl font-bold mb-4">
-          Get the Kavi Arts App 📱
+          Get the theaiclip App 📱
         </h1>
         <p className="text-xl text-muted-foreground">
           The ultimate customization experience is coming to your pocket.
