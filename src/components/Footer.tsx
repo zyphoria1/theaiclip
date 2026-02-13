@@ -36,7 +36,7 @@ const Footer = () => {
           {/* BRAND */}
           <div className="col-span-2">
             <h3 className="text-xl font-bold gradient-text mb-3">
-              KaviArts
+              theaiclip
             </h3>
 
             <p className="text-muted-foreground mb-6 max-w-md leading-relaxed">
@@ -55,7 +55,7 @@ const Footer = () => {
                 href="https://www.instagram.com/kavitunez/"
                 target="_blank"
                 className="flex flex-col items-center text-muted-foreground hover:text-foreground hover:font-semibold transition"
-                aria-label="KaviArts on Instagram"
+                aria-label="theaiclip on Instagram"
                 title="Instagram"
               >
                 <Instagram className="w-6 h-6 mb-1" aria-hidden="true" />
@@ -66,7 +66,7 @@ const Footer = () => {
                 href="https://youtube.com/@kavitunez?si=QrbqS0Y9ibD7Cm43"
                 target="_blank"
                 className="flex flex-col items-center text-muted-foreground hover:text-foreground hover:font-semibold transition"
-                aria-label="KaviArts on YouTube"
+                aria-label="theaiclip on YouTube"
                 title="YouTube"
               >
                 <Youtube className="w-6 h-6 mb-1" aria-hidden="true" />
@@ -77,7 +77,7 @@ const Footer = () => {
                 href="https://in.pinterest.com/Kavi_Pics/"
                 target="_blank"
                 className="flex flex-col items-center text-muted-foreground hover:text-foreground hover:font-semibold transition"
-                aria-label="KaviArts on Pinterest"
+                aria-label="theaiclip on Pinterest"
                 title="Pinterest"
               >
                 <PinterestIcon />
@@ -160,7 +160,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-10 pt-6 text-center text-sm text-muted-foreground">
-          © 2026 KaviArts. All rights reserved.
+          © 2026 theaiclip. All rights reserved.
         </div>
       </div>
     </footer>
